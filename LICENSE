@@ -1,21 +1,165 @@
-MIT License
+COMMERCIAL SOURCE CODE LICENSE
+Discord Bot Starter Kit
+Copyright (c) 2025 Janko Duris - Dulvarn. All rights reserved.
 
-Copyright (c) 2026 Jan Duris
+=======================================================================
+                    IMPORTANT — READ BEFORE USE
+=======================================================================
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software is proprietary. It is NOT open-source and is NOT free.
+Purchasing a license grants you a limited right to use this software
+as described below. All rights not explicitly granted are reserved by
+Janko Duris - Dulvarn.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+=======================================================================
+1. DEFINITIONS
+=======================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+"Software" means the Discord Bot Starter Kit source code, documentation,
+configuration files, and all associated materials in this repository.
+
+"Licensor" means Janko Duris - Dulvarn, the original author and copyright
+holder.
+
+"Licensee" means the individual or legal entity that has purchased a
+valid license and agreed to these terms.
+
+"Project" means a single deployed application built using this Software.
+
+"End Product" means any application, bot, or service built upon this
+Software that is distributed to or used by third parties.
+
+=======================================================================
+2. LICENSE TIERS
+=======================================================================
+
+2.1  SOLO LICENSE ($49)
+     - Grants one (1) Licensee the right to use the Software in one (1)
+       Project for personal or commercial purposes.
+     - Limited to one (1) developer.
+     - The Licensee may charge end users for access to their End Product.
+     - Updates included for six (6) months from purchase date.
+
+2.2  STUDIO LICENSE ($149)
+     - Grants one (1) Licensee (individual or company) the right to use
+       the Software in up to five (5) Projects for personal or commercial
+       purposes.
+     - Limited to three (3) developers within the same organization.
+     - The Licensee may charge end users for access to their End Products.
+     - Updates included for twelve (12) months from purchase date.
+
+2.3  WHITE-LABEL / ENTERPRISE LICENSE ($499)
+     - Grants one (1) Licensee the right to use, modify, and rebrand the
+       Software in an unlimited number of Projects.
+     - Unlimited developers within the same organization.
+     - The Licensee may resell or sublicense End Products built on the
+       Software, provided the Software source code itself is not
+       redistributed.
+     - Updates included for the lifetime of the product.
+     - Includes priority email support.
+
+=======================================================================
+3. PERMITTED USES (ALL TIERS)
+=======================================================================
+
+Subject to the restrictions below and valid purchase of a license, the
+Licensee may:
+
+  (a) Use the Software to build one or more End Products (within tier
+      limits).
+  (b) Modify the Software to meet the requirements of the End Product.
+  (c) Deploy the End Product on servers owned or rented by the Licensee.
+  (d) Charge end users for access to the End Product (subscriptions,
+      one-time payments, etc.).
+  (e) Use the Software in client work, provided each client deployment
+      is within the project limits of the purchased tier.
+
+=======================================================================
+4. FORBIDDEN USES (ALL TIERS UNLESS OTHERWISE NOTED)
+=======================================================================
+
+The Licensee MAY NOT, under any license tier unless explicitly stated:
+
+  (a) Redistribute, publish, share, sell, sublicense, or otherwise
+      make the Software source code available to any third party,
+      whether free of charge or for payment.
+  (b) Sell, resell, or commercially distribute the Software itself
+      (as opposed to an End Product built upon it) without a valid
+      White-Label License.
+  (c) Use the Software to build a competing template, starter kit,
+      boilerplate, or code product intended for sale or distribution.
+  (d) Remove, alter, or obscure any copyright notices, license notices,
+      or attribution text present in the Software.
+  (e) Use the Software to build any application designed to facilitate
+      illegal activity.
+  (f) Transfer the license to a third party without written consent
+      from the Licensor.
+  (g) Use the Software to operate a multi-tenant SaaS platform that
+      sells access to the Software's own functionality (as opposed to
+      an End Product built upon it), without a White-Label License.
+
+=======================================================================
+5. ATTRIBUTION
+=======================================================================
+
+The Licensee is NOT required to display "Powered by Discord Bot Starter
+Kit" in their End Product. However, the Licensee MUST retain the
+original copyright notice in any source files that are not substantially
+rewritten, unless a White-Label License has been purchased.
+
+=======================================================================
+6. NO WARRANTY
+=======================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The Licensor does not warrant that the Software will meet the Licensee's
+requirements, that it will be uninterrupted, error-free, or that defects
+will be corrected.
+
+=======================================================================
+7. LIMITATION OF LIABILITY
+=======================================================================
+
+IN NO EVENT SHALL THE LICENSOR'S TOTAL LIABILITY TO THE LICENSEE FOR
+ANY DAMAGES EXCEED THE AMOUNT PAID BY THE LICENSEE FOR THE LICENSE.
+THE LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, OR PUNITIVE DAMAGES, EVEN IF ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGES.
+
+=======================================================================
+8. GOVERNING LAW
+=======================================================================
+
+This License shall be governed by and construed in accordance with the
+laws of the European Union and the laws of the Slovak Republic, without
+regard to conflict of law principles.
+
+=======================================================================
+9. CONTACT
+=======================================================================
+
+For license inquiries, support, or to purchase a White-Label License:
+
+  Website : https://www.dulvarn.com
+  Email   : info@dulvarn.com
+
+=======================================================================
+10. ACKNOWLEDGMENT
+=======================================================================
+
+By downloading, installing, or using this Software, you acknowledge that
+you have read this License, understand it, and agree to be bound by its
+terms and conditions.
+
+If you do not agree to these terms, do not use the Software.
+
+=======================================================================
+                    END OF LICENSE
+=======================================================================
